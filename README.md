@@ -8,7 +8,7 @@ Currently pursuing **MITx MicroMasters in Supply Chain Management** and always e
 
 ## 💼 Professional Experience
 
-**🎯 Previous Roles**: SIOP Manager at Ammex & Zoomget (2021-2025)
+**🎯 Previous Role**: SIOP Manager at Ammex & Zoomget (2021-2025)
 - Established SIOP process from ground up, delivering **$250K+ annual operational savings**
 - Led digital transformation initiative implementing StockIQ planning system
 - Achieved **98% order fill rate** with **85% forecast accuracy** for strategic customers
